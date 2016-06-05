@@ -1,0 +1,13 @@
+
+.icon-mid{
+    width: 30px;
+    height: 30px;
+    background-size: 100%;
+    display: inline-block;
+}
+.icon-goback{
+    background-image: url(../images/icon/go-back.svg);
+}
+.icon-search{
+    background-image: url(../images/icon/search.svg);
+}

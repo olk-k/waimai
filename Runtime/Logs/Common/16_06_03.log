@@ -1,0 +1,1501 @@
+[ 2016-06-03T10:19:25+08:00 ] 127.0.0.1 /manager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-06-03T10:19:38+08:00 ] 127.0.0.1 /manager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-06-03T10:29:07+08:00 ] 127.0.0.1 /manager
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Manager
+
+[ 2016-06-03T10:33:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:29+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:33:30+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:03+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:16+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:16+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:__STATIC__
+
+STATIC__
+
+[ 2016-06-03T10:35:16+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:35:16+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:04+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:23+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:__STATIC__
+
+__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:36:24+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:28+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:__STATIC__
+
+块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T10:37:29+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:23:21+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:23:21+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:23:21+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+ERR: 无法加载模块:__STATIC__
+
+
+[ 2016-06-03T11:23:21+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:46:25+08:00 ] 127.0.0.1 /manage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+ERR: 无法加载模块:Manage
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:57+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001850s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001231s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001128s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000529s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:48:58+08:00 ] 127.0.0.1 /__IMG__/img-1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+ERR: 无法加载模块:__IMG__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003799s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/color.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__CSS__/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:49:15+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T11:50:08+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/jquery-2.2.4.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:24+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:37+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:37+08:00 ] 127.0.0.1 /__STATIC__/css/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:37+08:00 ] 127.0.0.1 /__STATIC__/bootstrap/css/bootstrap-theme.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:02:37+08:00 ] 127.0.0.1 /__CSS__/my-app.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:__CSS__
+
+[ 2016-06-03T15:02:37+08:00 ] 127.0.0.1 /__STATIC__/font-awesome/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:__STATIC__
+
+[ 2016-06-03T15:12:48+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:13:39+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:14:44+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:14:57+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000554s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:17+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:17+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:17+08:00 ] 127.0.0.1 /Public/Admin/images/subnav_current.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:18+08:00 ] 127.0.0.1 /Public/Admin/images/bg_icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:18+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:16:18+08:00 ] 127.0.0.1 /Public/Admin/images/subnav_current.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:17:27+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:17:28+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:17:28+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:17:29+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T15:17:29+08:00 ] 127.0.0.1 /Public/Admin/images/bg/bg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载模块:Public
+
+[ 2016-06-03T17:06:04+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-06-03T17:06:21+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Favicon
+

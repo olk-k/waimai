@@ -1,0 +1,185 @@
+<extend name="Base/layout"/>
+<block name="content">
+    <div id="main" class="main">
+        <div class="main-title">
+            <p>菜单管理</p>
+        </div>
+
+        <div class="cf">
+            <a class="buttn" href="{:U('Menu/add')}">新 增</a>
+            <button class="buttn ajax-post confirm" url="/index.php?s=/admin/menu/del.html" target-form="ids">删 除</button>
+            <a class="buttn" href="/index.php?s=/admin/menu/import/pid/0.html">导 入</a>
+            <button class="buttn list_sort" url="/index.php?s=/admin/menu/sort/pid/0">排序</button>
+        </div>
+        
+        
+        
+        <div class="margin-top-1 margin-bottom-1 data-table">
+            <form class="ids">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="row-selected">
+                                <input class="checkbox check-all" type="checkbox">
+                            </th>
+                            <th>ID</th>
+                            <th>名称</th>
+                            <th>上级菜单</th>
+                            <th>分组</th>
+                            <th>URL</th>
+                            <th>排序</th>
+                            <th>仅开发者模式显示</th>
+                            <th>隐藏</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="1"></td>
+                            <td>1</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/1.html">首页</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>Index/index</td>
+                            <td>1</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/1/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/1/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/1.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/1.html">删除</a>
+                            </td>
+                        </tr><tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="2"></td>
+                            <td>2</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/2.html">内容</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>Article/mydocument</td>
+                            <td>2</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/2/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/2/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/2.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/2.html">删除</a>
+                            </td>
+                        </tr><tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="16"></td>
+                            <td>16</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/16.html">用户</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>User/index</td>
+                            <td>3</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/16/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/16/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/16.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/16.html">删除</a>
+                            </td>
+                        </tr><tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="68"></td>
+                            <td>68</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/68.html">系统</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>Config/group</td>
+                            <td>4</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/68/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/68/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/68.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/68.html">删除</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="93"></td>
+                            <td>93</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/93.html">其他</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>other</td>
+                            <td>5</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/93/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/93/value/0.html" class="ajax-get">
+                                    是                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/93.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/93.html">删除</a>
+                            </td>
+                        </tr><tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="43"></td>
+                            <td>43</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/index/pid/43.html">扩展</a>
+                            </td>
+                            <td>无</td>
+                            <td></td>
+                            <td>Addons/index</td>
+                            <td>7</td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/toogledev/id/43/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a href="/index.php?s=/admin/menu/tooglehide/id/43/value/1.html" class="ajax-get">
+                                    否                            </a>
+                            </td>
+                            <td>
+                                <a title="编辑" href="/index.php?s=/admin/menu/edit/id/43.html">编辑</a>
+                                <a class="confirm ajax-get" title="删除" href="/index.php?s=/admin/menu/del/id/43.html">删除</a>
+                            </td>
+                        </tr>				                </tbody>
+                </table>
+            </form>
+            <!-- 分页 -->
+            <div class="page">
+
+            </div>
+        </div>
+
+    </div>
+</block>
+<block name="script">
+    <script>
+
+    </script>
+</block>

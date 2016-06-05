@@ -1,0 +1,82 @@
+<extend name="Public/base"/>
+<block name="style">
+    <link rel="stylesheet" type="text/css" href="__STATIC__/simditor/styles/simditor.css">
+</block>
+<block name="body">
+    <div class="main-title">
+        <h2>{:isset($info['id'])?'编辑':'新增'}友情链接</h2>
+    </div>
+    <form action="{:U()}" method="post" class="form-horizontal">
+        <input type='hidden' value="{$info.id}" />
+        <div class="form-item">
+            <label class="item-label">标题</label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="title" value="{$info.title|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">上级菜单<span class="check-tips">（所属的上级菜单）</span></label>
+            <div class="controls">
+                <select name="pid">
+                    <volist name="Menus" id="menu">
+                        <option value="{$menu.id}">{$menu.title_show}</option>
+                    </volist>
+                </select>
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">排序<span class="check-tips">（用于分组显示的顺序）</span></label>
+            <div class="controls">
+                <input type="text" class="text input-small" name="sort" value="{$info.sort|default=0}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">是否前台显示<span class="check-tips">（隐藏的将不显示与前台）</span></label>
+            <div class="controls">
+                <label class="radio"><input type="radio" name="hide" value="1" <eq name="info.hide" value="1"> checked="checked" </eq> >是</label>
+                <label class="radio"><input type="radio" name="hide" value="0" <empty name="info.hide"> checked="checked"</empty>>否</label>
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">链接<span class="check-tips">（连接和内容同时存在时，优先使用连接，当存在子菜单时连接和内容都不显示）</span></label>
+            <div class="controls">
+                <input type="text" class="text input-large" name="link" value="{$info.link|default=''}">
+            </div>
+        </div>
+        <div class="form-item">
+            <label class="item-label">内容<span class="check-tips">（连接和内容同时存在时，优先使用连接，当存在子菜单时连接和内容都不显示）</span></label>
+            <div class="controls">
+                <textarea id="editor" placeholder="连接和内容同时存在时，优先使用连接，当存在子菜单时连接和内容都不显示" name="content" autofocus>{$info.content}</textarea>
+            </div>
+        </div>
+        <div class="form-item">
+            <input type="hidden" name="id" value="{$info.id|default=''}">
+            <button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
+            <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+        </div>
+    </form>
+</block>
+
+<block name="script">
+    <script src="__STATIC__/simditor/scripts/module.min.js"></script>
+    <script src="__STATIC__/simditor/scripts/hotkeys.min.js"></script>
+    <script src="__STATIC__/simditor/scripts/uploader.min.js"></script>
+    <script src="__STATIC__/simditor/scripts/simditor.min.js"></script>
+    
+    <script type="text/javascript">
+        Think.setValue("pid", {$info.pid|default = 0});
+        $(function(){
+            new Simditor({
+                textarea: $('#editor'),
+                toolbar: ['title', 'bold', 'italic', 'underline', 'strikethrough', 'color', 'ol', 'ul', 'table', 'link', 'image', 'alignment'],
+                upload: {
+                    url: '{:U("Conmmon/uploadImg")}',
+                    connectionCount: 1,
+                    leaveConfirm: '文件正在上传确定要离开吗？'
+                }
+            });
+        })
+        
+        highlight_subnav('{:U('index')}');
+    </script>
+</block>

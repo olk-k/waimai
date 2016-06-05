@@ -1,0 +1,62 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <div class="main-title">
+        <h2>订单管理</h2>
+    </div>
+    <div class="data-table table-striped">
+        <form class="ids">
+            <table>
+                <thead>
+                    <tr>
+                        <th class="row-selected">
+                            <input class="checkbox check-all" type="checkbox">
+                        </th>
+                        <th>订单编号</th>
+                        <th>商品名称</th>
+                        <th>金额</th>
+                        <th>卖家昵称</th>
+                        <th>卖家昵称</th>
+                        <th>交易时间</th>
+                        <th>订单类型</th>
+                        <th>订单状态</th>
+                        <th>结算状态</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <notempty name="list">
+                    <volist name="list" id="item">
+                        <tr>
+                            <td><input class="ids row-selected" type="checkbox" name="id[]" value="{$menu.id}"></td>
+                            <td>{$item.order_code}</td>
+                            <td width="700px"><a href="{:U('/Home/Details/trip?i='.$item['pid'])}">{$item.title}</a></td>
+                            <td>{$item.price}</td>
+                            <td><a href="{:U('/Home/Details/guide?i='.$item['buy_mid'])}">{$item.buy_name}</a></td>
+                            <td><a href="{:U('/Home/Details/guide?i='.$item['sell_mid'])}">{$item.sell_name}</a></td>
+                            <td>{$item.create_time|time_format}</td>
+                            <td>{$item.ptype_text}</td>
+                            <td>{$item.status_text}</td>
+                            <td>{$item.pay_status_text}</td>
+                            <td>
+                                <a title="编辑" href="{:U('changeStatus?i='.$item['order_id'].'&s=1')}" class="ajax-get">结算</a>
+                            </td>
+                        </tr>
+                    </volist>
+                    <else/>
+                    <td colspan="10" class="text-center"> aOh! 暂时还没有内容! </td>
+                </notempty>
+                </tbody>
+            </table>
+        </form>
+        <!-- 分页 -->
+        <div class="page nls">
+            {$_page}
+        </div>
+    </div>
+</block>
+<block name="script">
+    <script>
+        highlight_subnav('{:U('index')}');
+    </script>
+</block>

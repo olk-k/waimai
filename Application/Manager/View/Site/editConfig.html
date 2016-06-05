@@ -1,0 +1,24 @@
+<extend name="Public/base"/>
+
+<block name="body">
+    <div class="main-title">
+        <h2>编辑显示设置</h2>
+    </div>
+    <form action="{:U()}" method="post" class="form-horizontal">
+        <input name="id" type="hidden" value="{$settingId.id}" />
+        几排<input name="value" />
+        备注<input name="desc" />
+        <div class="form-item">
+            <button class="btn submit-btn ajax-post" id="submit" type="submit" target-form="form-horizontal">确 定</button>
+            <button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>
+        </div>
+        
+    </form>
+</block>
+
+<block name="script">
+    <script>
+        //导航高亮
+        highlight_subnav('{:U('Site/config')}');
+    </script>
+</block>

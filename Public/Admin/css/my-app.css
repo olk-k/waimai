@@ -1,0 +1,348 @@
+html,body{
+    font: 14px/1.5 "microsoft yahei", Helvetica, Tahoma, Arial, sans-serif;
+}
+
+ol,ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+a,a:hover{
+    color: #2d7200;
+    text-decoration: none;
+}
+.header {
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    background-color: #383838;
+}
+.header .logo {
+    float: left;
+    margin-left: 16px;
+    width: 184px;
+    height: 49px;
+    background: url(../images/bg_icon.png) no-repeat 0 -45px;
+}
+/* 主导航 */
+.main-nav {
+    float: left;
+    overflow: hidden;
+}
+.main-nav li {
+    float: left;
+    width: 82px;
+}
+.main-nav a {
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    color: #FFF;
+    text-align: center; font-weight: bold;
+}
+.main-nav a:hover {
+    text-decoration: none;
+    background-color:#656565;
+}
+.main-nav .current{
+    background-color: #656565;
+}
+.main-nav .current a {
+    background-color: #86db00;
+}
+
+/* 用户 */
+.header .user-bar {
+    position: relative;
+    float: right;
+    margin-right: 20px;
+}
+.header .user-bar .user-entrance {
+    display: block;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    width: 20px;
+    height: 20px;
+    background: url(../images/bg_icon.png) no-repeat -150px 0;
+}
+.header .user-bar .user-entrance:hover {
+    border-bottom: 0 none;
+    text-decoration: none;
+}
+.header .user-menu {
+    position: absolute;
+    top: 50px;
+    right: -8px;
+    width: 140px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+}
+.header .user-menu li {
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #ddd;
+}
+.header .user-menu a {
+    padding: 0 15px;
+}
+.header .user-menu a:hover {
+    color: #424242;
+    background-color: #f5f5f5;
+}
+.header .user-menu .manager {
+    padding: 0 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* 边栏导航样式
+------------------------------------------ */
+.sidebar {
+    width: 200px;
+    height: 100%;
+    background: url("../images/bg.png") repeat #6b6b6b ;
+}
+.subnav {
+    padding-left: 15px;
+}
+
+/* 子导航标题栏 */
+.subnav h3 {
+    margin-right: 15px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 14px;
+    color: #ffffff;
+    cursor: pointer;
+}
+.subnav h3 a {
+    color:#fff;
+    text-decoration: none;
+}
+.subnav h3 a:hover {
+    text-decoration: none;
+}
+.subnav h3 .icon,
+.subnav h3 .icon-fold,
+.subnav h3 .recycle {
+    float: left;
+    margin: 10px 6px 0 0;
+    width: 16px;
+    height: 16px;
+}
+.subnav h3 .icon {
+    background: url(../images/bg_icon.png) no-repeat -100px 0;
+}
+.subnav h3 .icon-fold {
+    background-position: -75px 0;
+}
+.recycle {
+    background: url(../images/bg_icon.png) no-repeat -125px 0;
+}
+
+/* 子导航 */
+.side-sub-menu {
+    margin: 5px 0;
+}
+.side-sub-menu > li {
+    position: relative;
+    margin: 2px -1px 2px 0;
+}
+.side-sub-menu > li > .item {
+    padding:6px 0;
+    line-height:20px;
+    padding-left: 26px;
+    display:block;
+    color: #f1f1f1;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+}
+.side-sub-menu > li > .item:hover,
+.side-sub-menu > li.hover > .item {
+    color: #ffffff;
+    text-decoration: none;
+    background: #7c7c7c;
+    margin-right:1px;
+}
+.side-sub-menu > .current > .item {
+    color: #414141;
+    text-decoration: none;
+}
+.side-sub-menu > .current > .item,
+.side-sub-menu > .current > .item:hover,
+.side-sub-menu > .current.hover > .item {
+    color: #414141;
+    background: url(../images/subnav_current.png) no-repeat 165px 12px #f6f6f6;
+}
+
+/* 子菜单 */
+.side-sub-menu li .subitem {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 185px;
+    z-index: 9;
+    width: 150px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.side-sub-menu .hover > .subitem {
+    display:  block;
+}
+.side-sub-menu .subitem .subitem {
+    margin-top: -1px;
+    left: 150px;
+}
+.side-sub-menu .subitem .item {
+    display: block;
+    padding: 0 15px;
+    height: 30px;
+    line-height: 30px;
+}
+.side-sub-menu .subitem .item:hover {
+    text-decoration: none;
+    border-bottom: 0 none;
+    background: url(../images/subnav_current.png) no-repeat 130px 12px #f5f5f5;
+}
+.side-sub-menu .subitem > .item {
+    border-radius: 0;
+    border: 0 none;
+    width: auto;
+}
+
+/* 内容模块边栏子菜单 */
+.subnav-off {
+    display: none;
+}
+
+/* 主要内容区域 */
+.content{
+    -webkit-box-flex:1; 
+    height: 100%;
+    background-color: #F6F6F6;
+    overflow-y: scroll;
+    padding: 20px;
+}
+.main-title p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #445566;
+    margin-bottom: 20px;
+}
+.buttn {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 6px 16px;
+    font-size: 14px;
+    line-height: 18px;
+    color: #edffd1;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 0 none;
+    background-color: #4bbd00;
+    border-radius: 0;
+    outline:none;
+}
+.buttn:hover{
+    color: #FFF;
+    background-color: #4cdb00;
+}
+.btn-submit, .btn-return {
+    padding: 10px 50px;
+    color: #fff;
+    font-weight: bold;
+    border-color: transparent;
+}
+.btn-return {
+    color: #fff;
+}
+.btn-submit {
+    color: #fff;
+    background-color: #CC3900;
+}
+.btn-submit:hover {
+    color: #fff;
+    background-color: #ff2610;
+}
+
+/* 表单宽度预设 */
+.input-large {
+    width: 390px;
+}
+.input-mid {
+    width: 150px;
+}
+.input-small {
+    width: 100px;
+}
+.input-mini {
+    width: 50px;
+}
+.input-8x {
+    width: 400px;
+}
+.input-7x {
+    width: 350px;
+}
+.input-6x {
+    width: 300px;
+}
+.input-5x {
+    width: 250px;
+}
+.input-4x {
+    width: 200px;
+}
+.input-3x {
+    width: 150px;
+}
+.input-2x {
+    width: 100px;
+}
+.input-x {
+    width: 50px;
+}
+
+/* = 表格（默认有斑马条纹）
+------------------------------------------ */
+.data-table {
+    margin: 10px 0;
+}
+.data-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.data-table caption {
+    height: 30px;
+    line-height: 30px;
+    font-weight: 700;
+}
+.data-table thead th,
+.data-table tbody td {
+    padding:8px;
+    height: 19px;
+    line-height: 19px;
+    font-weight: 400;
+}
+.data-table thead th {
+    text-align: left;
+    color:#fff;
+    background-color: #353535;
+}
+.data-table tbody tr {
+    background-color: #fefefe;
+    color: #686868;
+}
+.data-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
+/*.... 调整bootstrap不合理元素 .....*/
+.has-feedback .form-control {
+    padding-right: 34px;
+}

@@ -1,0 +1,113 @@
+<extend name="Public/base"/>
+
+<block name="body">
+
+    <div class="tab-wrap">
+        <ul class="tab-nav nav">
+            <li class="current"><a href="{:U('Site/config')}">基本配置</a></li>
+        </ul>
+        <div class="tab-content">
+<!--            <div class="data-table table-striped">
+                <table class="">
+                    <thead>
+                        <tr>
+                            <th class="row-selected row-selected"><input class="check-all" type="checkbox"/></th>
+                            <th class="">UID</th>
+                            <th class="">key</th>
+                            <th class="">value</th>
+                            <th class="">操作用户</th>
+                            <th class="">状态</th>
+                            <th class="">操作时间</th>
+                            <th class="">备注</th>
+                            <th class="">操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <notempty name="_list">
+                        <volist name="_list" id="vo">
+                            <tr>
+                                <td><input class="ids" type="checkbox" name="id[]" value="{$vo.id}" /></td>
+                                <td>{$vo.id} </td>
+                                <td>{$vo.key} </td>
+                                <td>{$vo.value}</td>
+                                <td>{$vo.username}</td>
+                                <td>{$vo.status}</td>
+                                <td>{$vo.create_time|time_format}</td>
+                                <td>{$vo.desc}</td>
+                                <td>
+                                    <a href="{:U('Site/editConfig?i='.$vo['id'])}">编辑</a>
+                                </td>
+                            </tr>
+                        </volist>
+                        <else/>
+                        <td colspan="9" class="text-center"> aOh! 暂时还没有内容! </td>
+                    </notempty>
+                    </tbody>
+                </table>
+            </div>
+            <div class="page nls">
+                {$_page}
+            </div>
+-->
+            <form action="{:U('')}" method="post" class="form-horizontal">
+                <div class="form-item">
+                    <label class="item-label">网站标题<span class="check-tips">（网站标题前台显示标题）</span> </label>
+                    <div class="controls">
+                        <input type="text" class="text input-large" name="config[WEB_SITE_TITLE]" value="{$item.WEB_SITE_TITLE}">				
+                    </div>
+                </div>
+                <div class="form-item">
+                    <label class="item-label">网站描述<span class="check-tips">（网站搜索引擎描述）</span> </label>
+                    <div class="controls">
+                        <label class="textarea input-large">
+                            <textarea name="config[WEB_SITE_DESCRIPTION]">{$item.WEB_SITE_DESCRIPTION}</textarea>
+                        </label>				
+                    </div>
+                </div>
+<!--                <div class="form-item">
+                    <label class="item-label">关闭站点<span class="check-tips">（站点关闭后其他用户不能访问，管理员可以正常访问）</span> </label>
+                    <div class="controls">
+                        <select name="config[WEB_SITE_CLOSE]">
+                            <option value="0">关闭</option><option value="1" selected="">开启</option>			</select>				
+                    </div>
+                </div>-->
+                <div class="form-item">
+                    <label class="item-label">网站关键字<span class="check-tips">（网站搜索引擎关键字）</span> </label>
+                    <div class="controls">
+                        <label class="textarea input-large">
+                            <textarea name="config[WEB_SITE_KEYWORD]">{$item.WEB_SITE_KEYWORD}</textarea>
+                        </label>				
+                    </div>
+                </div>
+<!--                <div class="form-item">
+                    <label class="item-label">网站备案号<span class="check-tips">（设置在网站底部显示的备案号，如“沪ICP备12007941号-2）</span> </label>
+                    <div class="controls">
+                        <input type="text" class="text input-large" name="config[WEB_SITE_ICP]" value="">				
+                    </div>
+                </div>-->
+<!--                <div class="form-item">
+                    <label class="item-label">后台色系<span class="check-tips">（后台颜色风格）</span> </label>
+                    <div class="controls">
+                        <select name="config[COLOR_STYLE]">
+                            <option value="default_color" selected="">默认</option><option value="blue_color">紫罗兰</option>			</select>				
+                    </div>
+                </div>-->
+                <div class="form-item">
+                    <label class="item-label"></label>
+                    <div class="controls">
+                        <button type="submit" class="btn submit-btn ajax-post" target-form="form-horizontal">确 定</button>				
+                        <!--<button class="btn btn-return" onclick="javascript:history.back(-1);return false;">返 回</button>-->
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+</block>
+
+<block name="script">
+    <script>
+        //导航高亮
+        highlight_subnav('{:U('base')}');
+    </script>
+</block>

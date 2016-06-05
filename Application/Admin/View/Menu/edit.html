@@ -1,0 +1,57 @@
+<extend name="Base/layout"/>
+
+<block name="content">
+
+    <div class="alert alert-danger hide" role="alert">
+        <strong>警告！</strong>
+        <span></span>
+    </div>
+    <div class="main-title">
+        <p>新增后台菜单</p>
+    </div>
+    <form action="{:U('')}" method="post" class="form-submit">
+        <div class="form-group input-large">
+            <label>标题</label>
+            <input class="form-control" name="title" placeholder="用于后台显示的配置标题" datatype="*" nullmsg="标题不能为空">
+            <span class="glyphicon glyphicon-remove form-control-feedback"></span>
+        </div>
+        <div class="form-group input-large">
+            <label>排序</label>
+            <input class="form-control" name="sort" value="0">
+        </div>
+        <div class="form-group input-large">
+            <label>链接</label>
+            <input class="form-control" name="url" placeholder="U函数解析的URL或者外链" datatype="url" nullmsg="链接不能为空" errormsg="链接格式错误">
+            <span class="glyphicon glyphicon-remove form-control-feedback"></span>
+        </div>
+        <div class="form-group input-large">
+            <label>上级菜单</label>
+            <select class="form-control">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+            </select>
+        </div>
+        <div class="form-group input-large">
+            <label>是否隐藏</label><br />
+            <label class="radio-inline">
+                <input type="radio" name="hide" value="0"> 是
+            </label>
+            <label class="radio-inline">
+                <input type="radio" name="hide" value="1" checked="checked"> 否
+            </label>
+        </div>
+        <div class="form-group input-large">
+            <label>说明</label>
+            <input class="form-control input-large" name="tip" placeholder="菜单详细说明">
+        </div>
+        <button type="submit" class="buttn btn-submit">确定</button>
+        <button onclick="javaScript:history.go(-1);" class="buttn btn-return">返回</button>
+    </form>
+
+</block>
+<block name="script">
+    <script src="__JS__/my-app.js"></script>
+</block>
